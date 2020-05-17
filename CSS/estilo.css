@@ -1,0 +1,17 @@
+#visor {
+	width: 350px;
+	height: 40px;
+}
+
+.col-sm-41 {
+	margin-top: 250px;
+}
+
+button {
+
+	width: 60px;
+	height: 60px;
+	background: gray;
+	color: white;
+}
+
